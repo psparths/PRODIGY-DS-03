@@ -24,6 +24,10 @@ Classification Report (Precision, Recall, F1-Score)
 
 # Output
 
+
+![Screenshot 2025-05-05 181240](https://github.com/user-attachments/assets/029e43ef-3704-4db4-a7e8-8575f13f73b7)
+
+
 Accuracy: 0.8892935178441369 Classification Report: precision recall f1-score support
 
        0       0.94      0.94      0.94     10968
